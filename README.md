@@ -75,3 +75,9 @@
 ## ❤️ Thanks for visiting
 
 > *“Build things that actually work.”*
+
+---
+
+<p align="center">
+  <img src="./assets/2banner.png" alt="Footer Banner" />
+</p>
