@@ -27,7 +27,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,bash,go,fastapi,nodejs,discord,docker,nginx,linux,git,github,mysql,postgres,mongodb,redis,cloudflare,unity" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,bash,go,fastapi,nodejs,discord,docker,nginx,linux,git,github,mysql,postgres,mongodb,redis,cloudflare,unity,azure,c,cs,cpp,bots,discordjs,figma,git,github,githubactions,gitlab,gmail,grafana,idea,java,kubernetes,md,npm,ps,postman,powershell,prometheus,react,sqlite,svg,tailwind,twitter,ubuntu,unity,vercel,visualstudio,vscode,windows" />
   </a>
 </p>
 
@@ -44,31 +44,16 @@
 
 ---
 
-## 📊 GitHub Stats (optional)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=transparent" height="160" />
-</p>
-
----
-
 ## 🔗 Find Me Online
 
-<p align="left">
-  <a href="https://github.com/USERNAME">
-    <img src="https://ico.now.sh/github/fff" height="40" />
-  </a>
-  <a href="https://www.twitch.tv/denchikp_">
-    <img src="https://ico.now.sh/twitch/fff" height="40" />
-  </a>
-  <a href="https://denchikp.com">
-    <img src="https://ico.now.sh/googlechrome/fff" height="40" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://ico.now.sh/gmail/fff" height="40" />
-  </a>
-</p>
+<div align="center">
+
+[![GitHub](https://ico.now.sh/github/fff?size=40)](https://github.com/DenchikP9)
+[![Twitch](https://ico.now.sh/twitch/fff?size=40)](https://www.twitch.tv/denchikp_)
+[![Website](https://ico.now.sh/googlechrome/fff?size=40)](https://denchikp.com)
+[![Mail](https://ico.now.sh/gmail/fff?size=40)](mailto:denchikp@denchikp.com)
+
+</div>
 
 ---
 
