@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="./assets/header.png" alt="Header" />
+  <img src="./assets/2brb.png" alt="Header" />
 </p>
 
 <!-- OPTIONAL SNAKE ANIMATION -->
