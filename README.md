@@ -31,8 +31,6 @@
   </a>
 </p>
 
-> ⚠️ You can freely add/remove icons depending on your stack
-
 ---
 
 ## 📌 What I Do
