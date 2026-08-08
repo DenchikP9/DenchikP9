@@ -53,7 +53,7 @@
 
 [![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=DenchikP9)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
-[![Top Langs](![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DenchikP9&layout=compact))](https://github.com/Pranesh-2005/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DenchikP9&layout=compact)](https://github.com/Pranesh-2005/github-readme-stats)
 
 </div>
 
