@@ -51,8 +51,6 @@
 [![Pranesh's GitHub stats-Dark](https://github-readme-stats-fast.vercel.app/api?username=DenchikP9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=e91e63&icon_color=e91e63&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Pranesh-2005/github-readme-stats#gh-dark-mode-only)
 [![Pranesh's GitHub stats-Light](https://github-readme-stats-fast.vercel.app/api?username=DenchikP9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=e91e63&icon_color=e91e63&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Pranesh-2005/github-readme-stats#gh-light-mode-only)
 
-[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=DenchikP9)](https://github.com/Pranesh-2005/github-readme-stats-fast)
-
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DenchikP9)](https://github.com/Pranesh-2005/github-readme-stats)
 
 </div>
