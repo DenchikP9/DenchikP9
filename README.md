@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="DENCHIKP" width="860" />
+  <img src="https://cdn.denchikp.com/denchikp.com/img/readme-banner.svg" alt="DENCHIKP" width="860" />
 </p>
 
 <p align="center">
@@ -21,13 +21,13 @@
 </p>
 
 <p align="center">
-  <img src="./assets/terminal.svg" alt="terminal" width="860" />
+  <img src="https://cdn.denchikp.com/denchikp.com/img/readme-terminal.svg" alt="terminal" width="860" />
 </p>
 
 <br/>
 
 <!-- 01 -->
-<p align="center"><img src="./assets/h-whoami.svg" alt="whoami" width="860" /></p>
+<p align="center"><img src="https://cdn.denchikp.com/denchikp.com/img/readme-h-whoami.svg" alt="whoami" width="860" /></p>
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════════╗
@@ -51,7 +51,7 @@
 <br/>
 
 <!-- 02 -->
-<p align="center"><img src="./assets/h-packages.svg" alt="stack" width="860" /></p>
+<p align="center"><img src="https://cdn.denchikp.com/denchikp.com/img/readme-h-packages.svg" alt="stack" width="860" /></p>
 
 <div align="center">
 
@@ -68,16 +68,16 @@
 <br/>
 
 <!-- 03 -->
-<p align="center"><img src="./assets/h-htop.svg" alt="htop" width="860" /></p>
+<p align="center"><img src="https://cdn.denchikp.com/denchikp.com/img/readme-h-htop.svg" alt="htop" width="860" /></p>
 
 <p align="center">
-  <img src="./assets/skills.svg" alt="skills" width="860" />
+  <img src="https://cdn.denchikp.com/denchikp.com/img/readme-skills.svg" alt="skills" width="860" />
 </p>
 
 <br/>
 
 <!-- 04 -->
-<p align="center"><img src="./assets/h-services.svg" alt="services" width="860" /></p>
+<p align="center"><img src="https://cdn.denchikp.com/denchikp.com/img/readme-h-services.svg" alt="services" width="860" /></p>
 
 ```text
 CONTAINER         STATUS        WHAT IT DOES
@@ -114,12 +114,18 @@ edge-proxy        Up 99 days    Cloudflare · Nginx · SSL        0.0.0.0:443->4
 <br/>
 
 <!-- 05 -->
-<p align="center"><img src="./assets/h-activity.svg" alt="activity" width="860" /></p>
+<p align="center"><img src="https://cdn.denchikp.com/denchikp.com/img/readme-h-activity.svg" alt="activity" width="860" /></p>
 
 <div align="center">
 
-[![GitHub stats Dark](https://github-readme-stats-fast.vercel.app/api?username=DenchikP9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=FE005B&icon_color=FE005B&text_color=c9d1d9&bg_color=0A0A0F&border_color=262638&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/DenchikP9)
-[![GitHub stats Light](https://github-readme-stats-fast.vercel.app/api?username=DenchikP9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=FE005B&icon_color=FE005B&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/DenchikP9)
+<a href="https://github.com/DenchikP9">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=DenchikP9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=FE005B&icon_color=FE005B&text_color=c9d1d9&bg_color=0A0A0F&border_color=262638&show_icons=true&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=DenchikP9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=FE005B&icon_color=FE005B&show_icons=true&theme=default" />
+    <img alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=DenchikP9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=FE005B&icon_color=FE005B&text_color=c9d1d9&bg_color=0A0A0F&border_color=262638&show_icons=true&theme=dark" />
+  </picture>
+</a>
+
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DenchikP9&layout=compact&title_color=FE005B&text_color=c9d1d9&bg_color=0A0A0F&border_color=262638)](https://github.com/DenchikP9)
 
 [![WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=DenchikP9&title_color=FE005B&text_color=c9d1d9&bg_color=0A0A0F&border_color=262638)](https://github.com/DenchikP9)
@@ -133,7 +139,7 @@ edge-proxy        Up 99 days    Cloudflare · Nginx · SSL        0.0.0.0:443->4
 <br/>
 
 <!-- 06 -->
-<p align="center"><img src="./assets/h-crontab.svg" alt="crontab" width="860" /></p>
+<p align="center"><img src="https://cdn.denchikp.com/denchikp.com/img/readme-h-crontab.svg" alt="crontab" width="860" /></p>
 
 ```cron
 # m    h   dom mon dow   command
@@ -146,7 +152,7 @@ edge-proxy        Up 99 days    Cloudflare · Nginx · SSL        0.0.0.0:443->4
 <br/>
 
 <!-- 07 -->
-<p align="center"><img src="./assets/h-ping.svg" alt="ping" width="860" /></p>
+<p align="center"><img src="https://cdn.denchikp.com/denchikp.com/img/readme-h-ping.svg" alt="ping" width="860" /></p>
 
 ```text
 PING denchikp.com: 56 data bytes
@@ -170,7 +176,7 @@ PING denchikp.com: 56 data bytes
 <br/>
 
 <!-- 08 -->
-<p align="center"><img src="./assets/h-fortune.svg" alt="fortune" width="860" /></p>
+<p align="center"><img src="https://cdn.denchikp.com/denchikp.com/img/readme-h-fortune.svg" alt="fortune" width="860" /></p>
 
 ```text
  ________________________________________
