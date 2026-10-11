@@ -1,10 +1,6 @@
 <!-- HEADER -->
 
 <p align="center">
-  <img src="./assets/2brb.png" alt="Header" />
-</p>
-
-<p align="center">
   <img src="https://cdn.denchikp.com/denchikp.com/img/readme-banner.svg" alt="DENCHIKP" width="860" />
 </p>
 
@@ -191,10 +187,6 @@ logout
 
 [Process completed - see you next commit_]
 ```
-
-<p align="center">
-  <img src="./assets/2banner.png" alt="Footer Banner" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,100:FE005B&height=100&section=footer" />
