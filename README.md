@@ -118,21 +118,15 @@ edge-proxy        Up 99 days    Cloudflare · Nginx · SSL        0.0.0.0:443->4
 
 <div align="center">
 
-<a href="https://github.com/DenchikP9">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=DenchikP9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=FE005B&icon_color=FE005B&text_color=c9d1d9&bg_color=0A0A0F&border_color=262638&show_icons=true&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=DenchikP9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=FE005B&icon_color=FE005B&show_icons=true&theme=default" />
-    <img alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=DenchikP9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=FE005B&icon_color=FE005B&text_color=c9d1d9&bg_color=0A0A0F&border_color=262638&show_icons=true&theme=dark" />
-  </picture>
-</a>
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=DenchikP9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&title_color=FE005B&icon_color=FE005B&text_color=C9D1D9&bg_color=0A0A0F&border_color=FE005B&hide_border=false)](https://github.com/DenchikP9)
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DenchikP9&layout=compact&title_color=FE005B&text_color=c9d1d9&bg_color=0A0A0F&border_color=262638)](https://github.com/DenchikP9)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DenchikP9&layout=compact&title_color=FE005B&text_color=c9d1d9&bg_color=0A0A0F&border_color=FE005B)](https://github.com/DenchikP9)
 
-[![WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=DenchikP9&title_color=FE005B&text_color=c9d1d9&bg_color=0A0A0F&border_color=262638)](https://github.com/DenchikP9)
+[![WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=DenchikP9&title_color=FE005B&text_color=c9d1d9&bg_color=0A0A0F&border_color=FE005B)](https://github.com/DenchikP9)
 
-[![Streak](https://streak-stats.demolab.com/?user=DenchikP9&theme=dark&background=0A0A0F&border=262638&ring=FE005B&fire=FE005B&currStreakLabel=FE005B&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E6E85)](https://github.com/DenchikP9)
+[![Streak](https://streak-stats.demolab.com/?user=DenchikP9&theme=dark&background=0A0A0F&border=FE005B&ring=FE005B&fire=FE005B&currStreakLabel=FE005B&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E6E85)](https://github.com/DenchikP9)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DenchikP9&bg_color=0A0A0F&color=FE005B&line=FE005B&point=FFFFFF&area=true&area_color=FE005B&hide_border=true&custom_title=contributions.log)](https://github.com/DenchikP9)
+[![Contributions](https://ghchart.rshah.org/FE005B/DenchikP9)](https://github.com/DenchikP9)
 
 </div>
 
